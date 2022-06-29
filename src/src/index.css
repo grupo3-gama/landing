@@ -7,12 +7,14 @@
 }
 
 body {
+  background: #303841 !important;
   width: 100vw;
   height: 100vh;
+  display: flex;
   justify-content: center;
   align-items: center;
   color: #FFF;
-  background: #303841;
+ 
 }
 
 body, input, button, textarea {
