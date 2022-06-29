@@ -2,7 +2,6 @@ const api = require('axios').default;
 
 
 const ENDPOINT_API = 'https://www.mercadobitcoin.com.br/api/v4';
-const ENDPOINT_TRADE_PATH = "/tapi/v3/";
 
 const config = {
   headers: {

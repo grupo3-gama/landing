@@ -1,9 +1,9 @@
-import './App.css';
+import './index.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">        
+    <div>
+      <header>        
         <p>
           <strong className="logo1">Crypto</strong><strong className="logo2">Gama</strong>
         </p>
